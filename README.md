@@ -1,3 +1,4 @@
+
 # Platzom
 
 Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](https://platzi.com/js) de [Platzi](https://platzi.com), el mejor lugar de educacion online
@@ -33,3 +34,5 @@ platzom('Sometemos') //SoMeTeMoS
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
+=======
+# platzom
