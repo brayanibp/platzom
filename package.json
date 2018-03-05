@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "@brayanibp/platzom",
   "version": "0.1.0",
   "description": "Traductor de Idioma Platzom",
   "main": "dist/src/platzom.js",
